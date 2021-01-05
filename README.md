@@ -1,4 +1,4 @@
-# ESP-Aim-Assist---CSGO
+# Python Aim and ESP (RENAME FILE AND .py FILE)
 Glow ESP, Aim Assist when Mouse 1 is pressed.
 Download python https://www.microsoft.com/en-us/p/py...ot:overviewtab.
 Download Zip, drag to desktop and extract.
